@@ -1,0 +1,7 @@
+stepDefinitions/HomePageSteps.class
+stepDefinitions/ProductPageSteps.class
+stepDefinitions/Hooks.class
+runners/TestRunner.class
+stepDefinitions/CartPageSteps.class
+stepDefinitions/ConfirmationPageSteps.class
+stepDefinitions/CheckoutPageSteps.class
