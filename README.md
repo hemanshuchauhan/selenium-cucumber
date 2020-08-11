@@ -1,2 +1,2 @@
 # selenium-cucumber
-Java Based Cucumber Framework for Web application testing 
+Java Based Cucumber Framework for Web application testing.
